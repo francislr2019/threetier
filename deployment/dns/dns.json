@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "myapp123.testdomain123mohan.tk",
+        "Name": "my3tierapp.student5.courseandlabs.com",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
